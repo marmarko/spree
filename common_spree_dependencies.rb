@@ -7,6 +7,7 @@ gem 'coffee-rails'
 gem 'sass-rails'
 gem 'sqlite3', platforms: [:ruby, :mingw, :mswin, :x64_mingw]
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+gem 'spree_multi_vendor', github: 'spree-contrib/spree_multi_vendor'
 
 platforms :jruby do
   gem 'jruby-openssl'
