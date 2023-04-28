@@ -7,7 +7,6 @@
     "spree"
   ],
   "buildpacks": [
-    {"url": "heroku/ruby"},
     {"url": "https://github.com/spark-solutions/heroku-buildpack-spree.git"}
   ],
   "addons": [
